@@ -1,0 +1,40 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+
+# Environment & secrets
+.env
+.env.local
+*.env
+
+# Data (immutable raw + derived; outside git)
+data/
+outputs/
+
+# Models & checkpoints (keep in MLflow / models/; too large for git)
+models/*.pt
+models/*.pth
+mlruns/
+mlflow-artifacts/
+
+# Node
+node_modules/
+.next/
+web/out/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.swp
+
+# Logs
+*.log
