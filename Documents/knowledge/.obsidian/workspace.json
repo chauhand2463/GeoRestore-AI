@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "00_Project/Architecture_Diagram.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "Architecture_Diagram"
             }
           }
         ]
@@ -190,7 +190,13 @@
   },
   "active": "f799e52fdd44202c",
   "lastOpenFiles": [
+    "00_Project/Roadmap.md",
     "00_Project/Architecture_Diagram.md",
+    "00_Project/Requirements.md",
+    "00_Project/Objectives.md",
+    "00_Project/Overview.md",
+    "00_Project/Architecture_Plan.md",
+    "README.md",
     "05_Engineering/Blueprint/Blueprint_Index.md",
     "05_Engineering/Blueprint/SYSTEM_ARCHITECTURE.md",
     "05_Engineering/Blueprint/ROADMAP.md",
@@ -207,7 +213,6 @@
     "05_Engineering/Blueprint/DATASET_PIPELINE.md",
     "05_Engineering/Blueprint/API_ARCHITECTURE.md",
     "05_Engineering/Blueprint",
-    "05_Engineering",
-    "00_Project/Architecture_Plan.md"
+    "05_Engineering"
   ]
 }
